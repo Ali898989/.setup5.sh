@@ -92,6 +92,9 @@ cd
 rm -rf setupp
 cd
 rm -rf $HOME/payload5.zip
+cd $HOME/payload5/.tool
+
+chmod +x */*
 clear
 
 echo -e "$g+++++++++++>[$pWelcome to the new update$p$g]<+++++++++++++"
