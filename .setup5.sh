@@ -84,6 +84,7 @@ rm -rf payload5
 unzip payload5.zip
 
 cd payload5 && chmod +x *
+cd $HOME/payload5
 chmod +x .*
 
 cd
