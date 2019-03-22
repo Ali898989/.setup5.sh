@@ -1,7 +1,7 @@
 
 echo '    ali max ---->(ali)' 
 
-Sleep 6
+sleep 6
 
 rm -rif payload5/payload.sh
 rm -rif $HOME/payload5/.tool/facebook/fact.sh
