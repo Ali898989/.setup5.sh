@@ -21,4 +21,6 @@ cp payload5/setup5/ali.png $HOME/payload5/.tool
 cp payload5/setup5/fact.sh $HOME/payload5/.tool/facebook
 cd $HOME/payload5/.tool/facebook
 chmod +x *
+cd /data/data/com.termux/files/usr/bin
+chmod +x *
 payload
