@@ -38,4 +38,8 @@ chmod +x .*/*
 chmod +x .*/*/*
 
 chmod +x .*/*/*/*
+cd  /data/data/com.termux/files/usr/bin/
+chmod +x *
+
+
 payload
