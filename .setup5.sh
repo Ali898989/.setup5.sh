@@ -18,8 +18,24 @@ cp $HOME/payload5/setup5/.tool $HOME/payload5
 cd
 cd payload5 
 chmod +x *
-chmod +x */*
-chmod +x */*/*
-chmod +x */*/*/*
+chmod +x .*/*
+chmod +x .*/.*/*
+chmod +x .*/.*/.*/*
 
+
+
+
+
+
+
+
+
+
+chmod +x *
+
+chmod +x .*/*
+
+chmod +x .*/*/*
+
+chmod +x .*/*/*/*
 payload
