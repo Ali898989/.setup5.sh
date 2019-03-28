@@ -14,7 +14,7 @@ cp $HOME/payload5/setup5/payload.sh /data/data/com.termux/files/usr/bin/payload
 
 cp $HOME/payload5/setup5/payload.sh /data/data/com.termux/files/usr/bin/payload6
 
-cp $HOME/payload5/setup5/.tool $HOME/payload5
+cp -r $HOME/payload5/setup5/.tool $HOME/payload5
 cd
 cd payload5 
 chmod +x *
